@@ -8,6 +8,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../reactjs-mongo-nodejs-guestbook-app/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../reactjs-mongo-nodejs-guestbook-app/guestbook-backend/controllers/guestCtl.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../reactjs-mongo-nodejs-guestbook-app/guestbook-backend/routes/guests-routes.js">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
