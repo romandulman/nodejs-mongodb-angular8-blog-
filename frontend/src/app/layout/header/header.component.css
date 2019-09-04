@@ -1,0 +1,13 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+
+.add-icon {
+margin: auto}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.logo-icon {
+margin-right: 15px;
+}
