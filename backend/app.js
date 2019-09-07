@@ -4,7 +4,9 @@ const cookieParser = require('cookie-parser');
 const logger = require('morgan');
 const keys = require('./config/keys');
 const db = require('mongoose');
-const apiRouter = require('./routes/api');
+const postsRouter = require('./routes/posts');
+const authRouter = require('./routes/auth');
+
 const app = express();
 
 db.connect(keys.mongoAuth.dbURL);
@@ -19,5 +21,6 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.use('/api', apiRouter);
+app.use('/api/posts', postsRouter);
+app.use('/api/auth', authRouter);
 module.exports = app;

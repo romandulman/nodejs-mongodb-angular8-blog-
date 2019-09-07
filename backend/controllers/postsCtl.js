@@ -1,9 +1,17 @@
-class postsCtl {
+ const Post = require("../models/posts-model");
 
-    getAllPosts = (req,res) =>{
+ exports.getAllPosts = (req, res) => {
 
-    }
+ };
+ exports.getSinglePost = (req, res) => {
 
-}
+ };
+ exports.newPost = (req, res) => {
 
-module.exports = new postsCtl;
+ };
+ exports.delPost = (req, res) => {
+
+ };
+
+
+
