@@ -1,5 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
+import {PostsService} from '../../services/posts.service';
+
 @Component({
   selector: 'app-posts',
   templateUrl: './posts.component.html',
@@ -7,9 +9,10 @@ import { Component, OnInit } from '@angular/core';
 })
 export class PostsComponent implements OnInit {
 
-  constructor() { }
+  constructor( private  _postService: PostsService) { }
 
   ngOnInit() {
+    this._postService
   }
 
 }
