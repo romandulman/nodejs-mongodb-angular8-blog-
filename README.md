@@ -1,5 +1,5 @@
 ## Angular 8 Blog
-
+# This example  is not finished !
 #### This project implements:
 * MVC Architecture
 * Angular 8
