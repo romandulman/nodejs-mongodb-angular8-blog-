@@ -11,6 +11,7 @@ import {MatButtonModule, MatIconModule, MatMenuModule, MatToolbarModule, MatTool
 import { PostsService  } from './services/posts.service';
 import { SinglePostComponent } from './pages/single-post/single-post.component';
 import { AddPostComponent } from './pages/add-post/add-post.component';
+import {AuthService} from "./services/auth.service";
 
 const appRoutes: Routes = [
   {path: 'home', component: PostsComponent},
@@ -40,7 +41,8 @@ const appRoutes: Routes = [
       { enableTracing: true } // <-- debugging purposes only
     ),  ],
   providers: [
-    PostsService
+    PostsService,
+    AuthService
   ],
   bootstrap: [AppComponent]
 })

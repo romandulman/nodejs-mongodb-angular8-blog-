@@ -8,6 +8,41 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../FullStack-Course-Projects/Vacationer-306033143/frontend/src/components/user/User.actions.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FullStack-Course-Projects/Vacationer-306033143/frontend/src/components/user/User.reducers.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FullStack-Course-Projects/Vacationer-306033143/frontend/src/components/user/User.services.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FullStack-Course-Projects/Vacationer-306033143/frontend/src/components/user/User.stylesheet.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FullStack-Course-Projects/Vacationer-306033143/frontend/src/components/user/UserLogin.container.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FullStack-Course-Projects/Vacationer-306033143/frontend/src/components/user/UserRegister.contrainer.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FullStack-Course-Projects/Vacationer-306033143/frontend/src/helpers/root-reducer.js">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/README.md">
           <value>
             <set />
@@ -59,6 +94,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/frontend/src/app/app.module.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/frontend/src/app/interfaces/posts.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/frontend/src/app/interfaces/user.ts">
           <value>
             <set />
           </value>
